@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #111130;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -33,11 +33,11 @@ input {
 
 button {
   padding: 10px 20px;
-  background-color: rgb(34, 34, 113);
+  background-color: rgb(46, 46, 136);
   color: white;
   border: none;
 }
 
 button:hover {
-  background-color: rgb(81, 81, 181);
+  background-color: rgb(165, 165, 255);
 }
